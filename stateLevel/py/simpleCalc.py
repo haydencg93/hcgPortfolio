@@ -1,4 +1,5 @@
 def simpleCalculator():
+# Takes Equation in Multiple Steps/Lines #
     # numInput1 = input()
     # operatorInput = input()
     # numInput2 = input()
@@ -13,6 +14,7 @@ def simpleCalculator():
 
     ##################################################################
     
+# Takes Whole Equation in Single Line #
     eqInput = input()
     for i in range(len(eqInput)):
         # print(eqInput[i])
