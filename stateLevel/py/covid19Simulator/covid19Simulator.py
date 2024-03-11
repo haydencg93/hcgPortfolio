@@ -5,7 +5,7 @@
 # any form.
 #
 def signed():
-    return(["Hayden Gamble"])
+    return(["Hayden Gamble (University of Iowa)"])
 
 ######################################################################
 # This is my solution to hw3, which is now your template for HW3.  If
